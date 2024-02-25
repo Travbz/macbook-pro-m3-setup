@@ -83,9 +83,7 @@ echo "Installed Tfenv"
 # ./setup-brew.sh
 
 ## Uncomment below to set up jupyter notebooks
-# echo "Setting up jupyter"
-# chmod +x setup-jupyter.sh
-# ./setup-jupyter.sh
+# brew install jupyter
 
 echo "Setup complete!"
 
